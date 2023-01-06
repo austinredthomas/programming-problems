@@ -4,4 +4,4 @@
 # Return the leftmost pivot index. If no such index exists, return -1.
 
 def pivotIndex(nums):
-    pivot = nums[0]
+    pivot = 0
